@@ -1,2 +1,2 @@
 # Certifications
-This repository contains certifications for completed courses and specializations
+This repository contains certificates for completed courses and specializations
